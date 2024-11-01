@@ -105,4 +105,7 @@
 #define RGB_R4G_P6_5 _P6_5
 #define RGB_R4B_P4_3 _P4_3
 
+// Capslock LED
+#define CAPS_LED PWM32
+
 #endif
